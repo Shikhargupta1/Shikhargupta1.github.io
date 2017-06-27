@@ -1,0 +1,79 @@
+#page{
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    color: #111111;
+    width: 1250px;
+    max-width: 1400px;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.Elon{
+	width: 400px;
+	height: 400px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+#para1{
+	width: 1200px;
+	min-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#para2{
+	width: 1000px;
+    background-color: #e27676;
+    background:url(bg1.jpg);
+    background-repeat: no-repeat;
+    padding:35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-origin: content-box;
+    background-size: cover;
+    opacity:1;
+    margin-top: 20px;
+    margin-bottom: 40px; 
+
+}
+
+#para3{
+    width: 1000px;
+    margin-left: auto;
+    background-color: #bee2dc;
+    background:url(bg2.1.jpg);
+    background-repeat: no-repeat;
+    padding:35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-origin: content-box;
+    background-size: cover;
+    margin-bottom: 40px;
+    color: #e0b1bc;
+
+}
+
+#para4{
+	width: 1000px;
+	background-color:#ddb5a4;
+	background:url(bg3.1.jpg);
+    background-repeat: no-repeat;
+    padding:35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-origin: content-box;
+    background-size: cover;
+    margin-bottom: 40px;
+    color: #eaede1;
+}
+
+.line{
+	width: 800px;
+
+}
+
+.info{
+	font-size: 18px;
+}
